@@ -42,7 +42,7 @@
 	"413-desc": "The request is larger than the server is willing or able to process.",
 
 	"414-msg": "Request-URI Too Long",
-	"414-desc": "The URI provided was too long for the server to process.[2] Often the result of too much data being encoded as a query-string of a GET request, in which case it should be converted to a POST request.",
+	"414-desc": "The URI provided was too long for the server to process.",
 
 	"415-msg": "Unsupported Media Type",
 	"415-desc": "The request entity has a media type which the server or resource does not support.",
